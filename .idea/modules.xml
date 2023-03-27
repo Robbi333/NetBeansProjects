@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algorithm1/Algorithm1.iml" filepath="$PROJECT_DIR$/Algorithm1/Algorithm1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructures/DataStructures.iml" filepath="$PROJECT_DIR$/DataStructures/DataStructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LabExamRoberts/LabExamRoberts.iml" filepath="$PROJECT_DIR$/LabExamRoberts/LabExamRoberts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/NetBeansProjects.iml" filepath="$PROJECT_DIR$/.idea/NetBeansProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part1_DynamicArrays/Part1_DynamicArrays.iml" filepath="$PROJECT_DIR$/Part1_DynamicArrays/Part1_DynamicArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoftwareTest/SoftwareTest.iml" filepath="$PROJECT_DIR$/SoftwareTest/SoftwareTest.iml" />
+    </modules>
+  </component>
+</project>

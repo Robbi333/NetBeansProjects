@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="DataStructures" />
+        <module name="Part1_DynamicArrays" />
+        <module name="Algorithm1" />
+        <module name="SoftwareTest" />
+        <module name="LabExamRoberts" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Algorithm1" target="1.8" />
+      <module name="DataStructures" target="18" />
+      <module name="LabExamRoberts" target="18" />
+      <module name="Part1_DynamicArrays" target="18" />
+      <module name="SoftwareTest" target="18" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

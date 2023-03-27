@@ -1,0 +1,1 @@
+Student{id=12347, gpa=52.333333333333336, name=Bob Smith}
